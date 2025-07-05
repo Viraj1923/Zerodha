@@ -38,6 +38,16 @@ function Navbar() {
                 <Link className="nav-link active" to="/support">Support</Link>
               </li>
 
+              &nbsp;&nbsp;&nbsp;
+              <li>
+                <a href="https://zerodha-dashboard-eight.vercel.app/" >
+                  <button type="button" class="btn btn-primary mt-1" data-toggle="button" aria-pressed="false" autocomplete="off" style={{backgroundColor:"#DB342C",border:"none"}}>
+                    Kite Dashboard
+                  </button>
+                </a>
+                
+              </li>
+
 
             </ul>
           </form>
