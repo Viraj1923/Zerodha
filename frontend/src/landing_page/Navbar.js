@@ -41,7 +41,7 @@ function Navbar() {
               &nbsp;&nbsp;&nbsp;
               <li>
                 <a href="https://zerodha-dashboard-eight.vercel.app/" >
-                  <button type="button" class="btn btn-primary mt-1" data-toggle="button" aria-pressed="false" autocomplete="off" style={{backgroundColor:"#DB342C",border:"none"}}>
+                  <button type="button" class="btn btn-primary mt-1" data-toggle="button" aria-pressed="false" style={{backgroundColor:"#DB342C",border:"none"}}>
                     Kite Dashboard
                   </button>
                 </a>
